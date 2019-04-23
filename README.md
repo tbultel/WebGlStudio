@@ -7,3 +7,4 @@ It uses *wmctrl* and *xdotool* for the windows effect, and *pqiv* for displaying
 sudo apt-install wmctrl xdotool pqiv
 ```
 
+To launch the rotating cube, just launch "studio3d.bash" 
